@@ -1,0 +1,34 @@
+============================================================
+Script  : validacion_restconf.py
+Fecha   : 2026-06-24 06:29:13
+Host VM : labvm
+============================================================
+Alumno  : 001V-11 - Constanza Morales
+Empresa : Naviera del Pacifico SA
+============================================================
+
+Consultando endpoints RESTCONF...
+
+Guardado: evidencias/responses/get_hostname.json
+Guardado: evidencias/responses/get_loopback.json
+Guardado: evidencias/responses/get_interfaces.json
+Guardado: evidencias/responses/get_ntp.json
+
+--- REPORTE DE VALIDACION RESTCONF ---
+
+[OK] Hostname corporativo
+      Esperado : RTR-NAVPAC
+      Obtenido : RTR-NAVPAC
+[OK] IP Loopback
+      Esperado : 10.1.11.1
+      Obtenido : 10.1.11.1
+[OK] Descripcion WAN
+      Esperado : Enlace-WAN-Arica
+      Obtenido : Enlace-WAN-Arica
+[OK] Servidor NTP
+      Esperado : 9.9.9.9
+      Obtenido : 9.9.9.9
+
+Resultado: 4/4 criterios conformes
+
+✅ RESULTADO GLOBAL: CONFORME
