@@ -1,0 +1,19 @@
+alumno:
+  codigo: "001V-11"
+  nombre: "Constanza Morales"
+
+cliente:
+  empresa: "Naviera del Pacifico SA"
+  hostname: "RTR-NAVPAC"
+
+router:
+  ip: "192.168.56.113"
+  usuario: "cisco"
+  password: "cisco123!"
+  loopback_id: 10
+  loopback_ip: "10.1.11.1"
+  loopback_mask: "255.255.255.0"
+  loopback_prefix: "24"
+  descripcion_wan: "Enlace-WAN-Arica"
+  banner: "ACCESO RESTRINGIDO - NAVPAC"
+  ntp_server: "9.9.9.9"
