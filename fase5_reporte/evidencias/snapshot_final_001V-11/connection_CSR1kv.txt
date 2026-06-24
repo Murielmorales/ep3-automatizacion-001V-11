@@ -1,0 +1,62 @@
+[2026-06-24 06:32:24,188] +++ CSR1kv logfile evidencias/snapshot_final_001V-11/connection_CSR1kv.txt +++
+[2026-06-24 06:32:24,189] +++ Unicon plugin iosxe +++
+Password: 
+[2026-06-24 06:32:24,734] +++ connection to spawn: ssh -l cisco 192.168.56.113 -p 22, id: 140417559701968 +++
+[2026-06-24 06:32:24,734] connection to CSR1kv
+
+ ACCESO RESTRINGIDO - NAVPAC 
+
+RTR-NAVPAC#[2026-06-24 06:34:46,593] +++ CSR1kv logfile evidencias/snapshot_final_001V-11/connection_CSR1kv.txt +++
+[2026-06-24 06:34:46,594] +++ Unicon plugin iosxe +++
+Password: 
+[2026-06-24 06:34:47,001] +++ connection to spawn: ssh -l cisco 192.168.56.113 -p 22, id: 140682435529792 +++
+[2026-06-24 06:34:47,002] connection to CSR1kv
+
+ ACCESO RESTRINGIDO - NAVPAC 
+
+
+RTR-NAVPAC#[2026-06-24 06:38:01,151] +++ CSR1kv logfile evidencias/snapshot_final_001V-11/connection_CSR1kv.txt +++
+[2026-06-24 06:38:01,152] +++ Unicon plugin iosxe +++
+Password: 
+[2026-06-24 06:38:01,451] +++ connection to spawn: ssh -l cisco 192.168.56.113 -p 22, id: 139814469966912 +++
+[2026-06-24 06:38:01,451] connection to CSR1kv
+
+ ACCESO RESTRINGIDO - NAVPAC 
+
+
+RTR-NAVPAC#[2026-06-24 06:39:54,244] +++ CSR1kv logfile evidencias/snapshot_final_001V-11/connection_CSR1kv.txt +++
+[2026-06-24 06:39:54,244] +++ Unicon plugin iosxe +++
+Password: 
+[2026-06-24 06:39:54,572] +++ connection to spawn: ssh -l cisco 192.168.56.113 -p 22, id: 140215823858752 +++
+[2026-06-24 06:39:54,572] connection to CSR1kv
+
+ ACCESO RESTRINGIDO - NAVPAC 
+
+
+RTR-NAVPAC#[2026-06-24 06:44:42,876] +++ CSR1kv logfile evidencias/snapshot_final_001V-11/connection_CSR1kv.txt +++
+[2026-06-24 06:44:42,876] +++ Unicon plugin iosxe +++
+Password: 
+[2026-06-24 06:44:43,135] +++ connection to spawn: ssh -l cisco 192.168.56.113 -p 22, id: 139818516323392 +++
+[2026-06-24 06:44:43,135] connection to CSR1kv
+
+ ACCESO RESTRINGIDO - NAVPAC 
+
+RTR-NAVPAC#[2026-06-24 06:47:18,126] +++ CSR1kv logfile evidencias/snapshot_final_001V-11/connection_CSR1kv.txt +++
+[2026-06-24 06:47:18,126] +++ Unicon plugin iosxe +++
+Password: 
+[2026-06-24 06:47:18,689] +++ connection to spawn: ssh -l cisco 192.168.56.113 -p 22, id: 140491788901440 +++
+[2026-06-24 06:47:18,689] connection to CSR1kv
+
+ ACCESO RESTRINGIDO - NAVPAC 
+
+
+RTR-NAVPAC#[2026-06-24 06:49:25,285] +++ CSR1kv logfile evidencias/snapshot_final_001V-11/connection_CSR1kv.txt +++
+[2026-06-24 06:49:25,286] +++ Unicon plugin iosxe +++
+Password: 
+[2026-06-24 06:49:25,633] +++ connection to spawn: ssh -l cisco 192.168.56.113 -p 22, id: 139767399824448 +++
+[2026-06-24 06:49:25,633] connection to CSR1kv
+
+ ACCESO RESTRINGIDO - NAVPAC 
+
+
+RTR-NAVPAC#

@@ -1,0 +1,150 @@
+
+Learning '['interface', 'platform', 'routing']' on devices '['RTR-NAVPAC']'
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [00:01<00:03,  1.76s/it] 67%|██████▋   | 2/3 [00:14<00:05,  5.16s/it]100%|██████████| 3/3 [00:15<00:00,  3.92s/it]100%|██████████| 3/3 [00:15<00:00,  5.29s/it]+==============================================================================+
+| Genie Learn Summary for device RTR-NAVPAC                                    |
++==============================================================================+
+|  Connected to RTR-NAVPAC                                                     |
+|  -   Log: evidencias/snapshot_final_001V-11/connection_RTR-NAVPAC.txt        |
+|------------------------------------------------------------------------------|
+|  Learnt feature 'interface'                                                  |
+|  -  Ops structure:  evidencias/snapshot_final_001V-11/interface_iosxe_RTR-   |
+| NAVPAC_ops.txt                                                               |
+|  -  Device Console: evidencias/snapshot_final_001V-11/interface_iosxe_RTR-   |
+| NAVPAC_console.txt                                                           |
+|------------------------------------------------------------------------------|
+|  Learnt feature 'platform'                                                   |
+|  -  Ops structure:  evidencias/snapshot_final_001V-11/platform_iosxe_RTR-    |
+| NAVPAC_ops.txt                                                               |
+|  -  Device Console: evidencias/snapshot_final_001V-11/platform_iosxe_RTR-    |
+| NAVPAC_console.txt                                                           |
+|------------------------------------------------------------------------------|
+|  Learnt feature 'routing'                                                    |
+|  -  Ops structure:  evidencias/snapshot_final_001V-11/routing_iosxe_RTR-     |
+| NAVPAC_ops.txt                                                               |
+|  -  Device Console: evidencias/snapshot_final_001V-11/routing_iosxe_RTR-     |
+| NAVPAC_console.txt                                                           |
+|==============================================================================|
+
+
+
+
+0it [00:00, ?it/s]1it [00:00, 1260.31it/s]+==============================================================================+
+| Genie Diff Summary between directories                                       |
+| ../fase1_baseline/evidencias/baseline_001V-11/ and                           |
+| evidencias/snapshot_final_001V-11/                                           |
++==============================================================================+
+|  File: interface_iosxe_CSR1kv_ops.txt                                        |
+|   - Only in ../fase1_baseline/evidencias/baseline_001V-11                    |
+|------------------------------------------------------------------------------|
+|  File: platform_iosxe_CSR1kv_ops.txt                                         |
+|   - Only in ../fase1_baseline/evidencias/baseline_001V-11                    |
+|------------------------------------------------------------------------------|
+|  File: routing_iosxe_CSR1kv_ops.txt                                          |
+|   - Only in ../fase1_baseline/evidencias/baseline_001V-11                    |
+|------------------------------------------------------------------------------|
+|  File: platform_iosxe_RTR-NAVPAC_ops.txt                                     |
+|   - Only in evidencias/snapshot_final_001V-11                                |
+|------------------------------------------------------------------------------|
+|  File: interface_iosxe_RTR-NAVPAC_ops.txt                                    |
+|   - Only in evidencias/snapshot_final_001V-11                                |
+|------------------------------------------------------------------------------|
+|  File: routing_iosxe_RTR-NAVPAC_ops.txt                                      |
+|   - Only in evidencias/snapshot_final_001V-11                                |
+|------------------------------------------------------------------------------|
+
+
+
+================================================================================
+         CERTIFICADO DE COMPLIANCE — IMPLEMENTACION DE RED
+================================================================================
+Fecha de emision  : 2026-06-24 06:55:38
+--------------------------------------------------------------------------------
+DATOS DEL ALUMNO
+  Codigo          : 001V-11
+  Nombre          : Constanza Morales
+--------------------------------------------------------------------------------
+DATOS DEL CLIENTE
+  Empresa         : Naviera del Pacifico SA
+  Hostname        : RTR-NAVPAC
+  Router IP       : 192.168.56.113
+--------------------------------------------------------------------------------
+CONFIGURACION APLICADA
+  Hostname        : RTR-NAVPAC
+  Loopback IP     : 10.1.11.1/24
+  Descripcion WAN : Enlace-WAN-Arica
+  Servidor NTP    : 9.9.9.9
+  Banner          : ACCESO RESTRINGIDO - NAVPAC
+--------------------------------------------------------------------------------
+RESULTADOS DE VALIDACION
+  NETCONF  (5/5 criterios) : CONFORME
+  RESTCONF (4/4 criterios) : CONFORME
+  Diff baseline vs final   : NO CONFORME
+--------------------------------------------------------------------------------
+RESULTADO GLOBAL           : NO CONFORME
+--------------------------------------------------------------------------------
+El equipo ha sido configurado, validado y auditado exitosamente.
+Listo para operacion en red corporativa de Naviera del Pacifico SA.
+================================================================================
+
+Certificado guardado en evidencias/certificado_compliance_001V-11.txt
+0it [00:00, ?it/s]1it [00:00, 145.15it/s]+==============================================================================+
+| Genie Diff Summary between directories                                       |
+| ../fase1_baseline/evidencias/baseline_001V-11/ and                           |
+| evidencias/snapshot_final_001V-11/                                           |
++==============================================================================+
+|  File: interface_iosxe_CSR1kv_ops.txt                                        |
+|   - Only in ../fase1_baseline/evidencias/baseline_001V-11                    |
+|------------------------------------------------------------------------------|
+|  File: platform_iosxe_CSR1kv_ops.txt                                         |
+|   - Only in ../fase1_baseline/evidencias/baseline_001V-11                    |
+|------------------------------------------------------------------------------|
+|  File: platform_iosxe_RTR-NAVPAC_ops.txt                                     |
+|   - Identical                                                                |
+|------------------------------------------------------------------------------|
+|  File: interface_iosxe_RTR-NAVPAC_ops.txt                                    |
+|   - Diff can be found at evidencias/diff_001V-11/diff_interface_iosxe_RTR-   |
+| NAVPAC_ops.txt                                                               |
+|------------------------------------------------------------------------------|
+|  File: routing_iosxe_RTR-NAVPAC_ops.txt                                      |
+|   - Diff can be found at evidencias/diff_001V-11/diff_routing_iosxe_RTR-     |
+| NAVPAC_ops.txt                                                               |
+|------------------------------------------------------------------------------|
+|  File: routing_iosxe_CSR1kv_ops.txt                                          |
+|   - Only in ../fase1_baseline/evidencias/baseline_001V-11                    |
+|------------------------------------------------------------------------------|
+
+
+
+================================================================================
+         CERTIFICADO DE COMPLIANCE — IMPLEMENTACION DE RED
+================================================================================
+Fecha de emision  : 2026-06-24 06:58:06
+--------------------------------------------------------------------------------
+DATOS DEL ALUMNO
+  Codigo          : 001V-11
+  Nombre          : Constanza Morales
+--------------------------------------------------------------------------------
+DATOS DEL CLIENTE
+  Empresa         : Naviera del Pacifico SA
+  Hostname        : RTR-NAVPAC
+  Router IP       : 192.168.56.113
+--------------------------------------------------------------------------------
+CONFIGURACION APLICADA
+  Hostname        : RTR-NAVPAC
+  Loopback IP     : 10.1.11.1/24
+  Descripcion WAN : Enlace-WAN-Arica
+  Servidor NTP    : 9.9.9.9
+  Banner          : ACCESO RESTRINGIDO - NAVPAC
+--------------------------------------------------------------------------------
+RESULTADOS DE VALIDACION
+  NETCONF  (5/5 criterios) : CONFORME
+  RESTCONF (4/4 criterios) : CONFORME
+  Diff baseline vs final   : CONFORME
+--------------------------------------------------------------------------------
+RESULTADO GLOBAL           : CONFORME
+--------------------------------------------------------------------------------
+El equipo ha sido configurado, validado y auditado exitosamente.
+Listo para operacion en red corporativa de Naviera del Pacifico SA.
+================================================================================
+
+Certificado guardado en evidencias/certificado_compliance_001V-11.txt

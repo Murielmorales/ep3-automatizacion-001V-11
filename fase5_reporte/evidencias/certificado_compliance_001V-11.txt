@@ -1,0 +1,32 @@
+
+================================================================================
+         CERTIFICADO DE COMPLIANCE — IMPLEMENTACION DE RED
+================================================================================
+Fecha de emision  : 2026-06-24 06:58:06
+--------------------------------------------------------------------------------
+DATOS DEL ALUMNO
+  Codigo          : 001V-11
+  Nombre          : Constanza Morales
+--------------------------------------------------------------------------------
+DATOS DEL CLIENTE
+  Empresa         : Naviera del Pacifico SA
+  Hostname        : RTR-NAVPAC
+  Router IP       : 192.168.56.113
+--------------------------------------------------------------------------------
+CONFIGURACION APLICADA
+  Hostname        : RTR-NAVPAC
+  Loopback IP     : 10.1.11.1/24
+  Descripcion WAN : Enlace-WAN-Arica
+  Servidor NTP    : 9.9.9.9
+  Banner          : ACCESO RESTRINGIDO - NAVPAC
+--------------------------------------------------------------------------------
+RESULTADOS DE VALIDACION
+  NETCONF  (5/5 criterios) : CONFORME
+  RESTCONF (4/4 criterios) : CONFORME
+  Diff baseline vs final   : CONFORME
+--------------------------------------------------------------------------------
+RESULTADO GLOBAL           : CONFORME
+--------------------------------------------------------------------------------
+El equipo ha sido configurado, validado y auditado exitosamente.
+Listo para operacion en red corporativa de Naviera del Pacifico SA.
+================================================================================
